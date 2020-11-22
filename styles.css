@@ -1,0 +1,27 @@
+body {
+
+  align-content: center;
+  text-align: center;
+  background-color: pink;
+
+}
+
+.k {
+
+  margin-left: 400px;
+  height: 450px;
+  width: 450px;
+  background-color: #28abb9;
+
+}
+
+
+button {
+
+background-color: orange;
+border-radius: 50%;
+padding: 2% 3%;
+border: 1px black solid;
+cursor: pointer;
+
+}
